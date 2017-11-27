@@ -1,0 +1,5 @@
+# docs
+
+-r base.txt
+-r docs-pkgs.txt
+

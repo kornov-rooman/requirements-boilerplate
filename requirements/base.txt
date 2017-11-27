@@ -1,0 +1,5 @@
+# base
+
+-r core-pkgs.txt
+-r internal-pkgs.txt
+
